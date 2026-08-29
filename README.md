@@ -750,9 +750,6 @@ If you like this portfolio:
 
 ------------------------------------------------------------------------
 
-## 📄 License
-
-This project is intended for personal portfolio and educational
-purposes.
+## 👨‍💻 Author
 
 © Guruprasad Halde
